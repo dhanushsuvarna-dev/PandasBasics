@@ -1,0 +1,20 @@
+roll_no,student_name,subject,total_classes,present,absent,excused,attendance_pct,status,classes_needed_75,last_present_date,consecutive_absences
+4MW23CS165,SUDHARSHAN BHARGAV JOSHI,Data Science & GenAI - 3nd Yr - CSE - A,11,0,11,0,0.0,Critical,33 more,,11
+4MW24CS020,ARON OWEN D'SOUZA,Data Science & GenAI - 3nd Yr - CSE - A,12,0,12,0,0.0,Critical,36 more,,12
+4MW24CS050,GAUTHAM G PRABHU,Data Science & GenAI - 3nd Yr - CSE - A,12,0,12,0,0.0,Critical,36 more,,12
+4MW24CS034,DARREN DSOUZA,Data Science & GenAI - 3nd Yr - CSE - A,12,1,11,0,8.0,Critical,32 more,2026-08-31,11
+4MW24CS058,JEETHAN WELROY FERNANDES,Data Science & GenAI - 3nd Yr - CSE - A,12,1,11,0,8.0,Critical,32 more,2026-08-31,11
+4MW24CS041,DHIKSHITH AITHAL KG,Data Science & GenAI - 3nd Yr - CSE - A,12,2,10,0,17.0,Critical,28 more,2026-09-07,9
+4MW24CS046,DRUSHYA K SHETTY,Data Science & GenAI - 3nd Yr - CSE - A,12,2,10,0,17.0,Critical,28 more,2026-10-08,0
+4MW25CS403,M NIRANJAN PRABHU,Data Science & GenAI - 3nd Yr - CSE - A,12,3,9,0,25.0,Critical,24 more,2026-09-07,9
+4MW24CS019,ANVESH N ACHARYA,Data Science & GenAI - 3nd Yr - CSE - A,12,5,7,0,42.0,Critical,16 more,2026-09-21,6
+4MW24CS056,HIMESH PRAKASH NAIK,Data Science & GenAI - 3nd Yr - CSE - A,12,6,6,0,50.0,Critical,12 more,2026-09-28,3
+4MW24CS003,ABHISHEK,Data Science & GenAI - 3nd Yr - CSE - A,12,6,6,0,50.0,Critical,12 more,2026-10-08,0
+4MW24CS021,ARUNA,Data Science & GenAI - 3nd Yr - CSE - A,12,6,6,0,50.0,Critical,12 more,2026-10-05,1
+4MW24CS057,JATIN NAGESH NAIK,Data Science & GenAI - 3nd Yr - CSE - A,12,6,6,0,50.0,Critical,12 more,2026-10-05,1
+4MW24CS054,HARSHA S RAO,Data Science & GenAI - 3nd Yr - CSE - A,12,7,5,0,58.0,Critical,8 more,2026-10-08,0
+4MW24CS051,GOWRISH M SHEREGARA,Data Science & GenAI - 3nd Yr - CSE - A,12,7,5,0,58.0,Critical,8 more,2026-10-08,0
+4MW24CS037,DEVADIGA SUHAS SURESH,Data Science & GenAI - 3nd Yr - CSE - A,12,7,5,0,58.0,Critical,8 more,2026-10-08,0
+4MW23CS121,ROHITH RAO,Data Science & GenAI - 3nd Yr - CSE - A,11,7,4,0,64.0,Critical,5 more,2026-10-08,0
+4MW24CS026,ATHMIK Y ACHARYA,Data Science & GenAI - 3nd Yr - CSE - A,12,8,4,0,67.0,Critical,4 more,2026-10-05,1
+4MW24CS048,GANAVI SUSHMA,Data Science & GenAI - 3nd Yr - CSE - A,12,8,4,0,67.0,Critical,4 more,2026-10-08,0

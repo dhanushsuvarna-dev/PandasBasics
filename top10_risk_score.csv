@@ -1,0 +1,11 @@
+roll_no,student_name,subject,total_classes,present,absent,excused,attendance_pct,status,classes_needed_75,last_present_date,consecutive_absences,attendance_category,risk_score
+4MW24CS020,ARON OWEN D'SOUZA,Data Science & GenAI - 3nd Yr - CSE - A,12,0,12,0,0.0,Critical,36 more,,12,Poor,12.0
+4MW24CS050,GAUTHAM G PRABHU,Data Science & GenAI - 3nd Yr - CSE - A,12,0,12,0,0.0,Critical,36 more,,12,Poor,12.0
+4MW24CS058,JEETHAN WELROY FERNANDES,Data Science & GenAI - 3nd Yr - CSE - A,12,1,11,0,8.0,Critical,32 more,2026-08-31,11,Poor,11.0
+4MW24CS034,DARREN DSOUZA,Data Science & GenAI - 3nd Yr - CSE - A,12,1,11,0,8.0,Critical,32 more,2026-08-31,11,Poor,11.0
+4MW23CS165,SUDHARSHAN BHARGAV JOSHI,Data Science & GenAI - 3nd Yr - CSE - A,11,0,11,0,0.0,Critical,33 more,,11,Poor,11.0
+4MW24CS041,DHIKSHITH AITHAL KG,Data Science & GenAI - 3nd Yr - CSE - A,12,2,10,0,17.0,Critical,28 more,2026-09-07,9,Poor,9.399999999999999
+4MW25CS403,M NIRANJAN PRABHU,Data Science & GenAI - 3nd Yr - CSE - A,12,3,9,0,25.0,Critical,24 more,2026-09-07,9,Poor,9.0
+4MW24CS019,ANVESH N ACHARYA,Data Science & GenAI - 3nd Yr - CSE - A,12,5,7,0,42.0,Critical,16 more,2026-09-21,6,Poor,6.4
+4MW24CS056,HIMESH PRAKASH NAIK,Data Science & GenAI - 3nd Yr - CSE - A,12,6,6,0,50.0,Critical,12 more,2026-09-28,3,Poor,4.2
+4MW24CS046,DRUSHYA K SHETTY,Data Science & GenAI - 3nd Yr - CSE - A,12,2,10,0,17.0,Critical,28 more,2026-10-08,0,Poor,4.0
